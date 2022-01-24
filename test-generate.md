@@ -1,13 +1,11 @@
-# readme-generator-bcs
+# test-generate
 
   [![License: undefined](https://img.shields.io/badge/License-undefined-lightgrey.svg)]
   (https://opensource.org/licenses/undefined)
 
   ## Description
   
-  This app generates README.md files based on input from the user in the command line. README files are critical
-  tools for developers, allowing them to describe their app or project via an organized, succinct and easy-to-access
-  file. However, they can be a pain to create sometimes, especially when your primary focus wants to go towards the project itself. Use this README generator to quickly generate a markdown file based on inputs that you supply through the command line on VS code. It will format all of your responses neatly into a professional-quality README file, removing the hassle from your workflow and allowing you to focus on the more important things.
+  This app generates README.md files based on input from the user in the command line.
   
   ## Table of Contents
   - [Installation](#installation)
