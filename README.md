@@ -3,13 +3,12 @@
   ## Description
   
   This app generates README.md files based on input from the user in the command line. README files are critical
-  tools for developers, allowing them to describe their app or project via an organized, succinct and easy-to-access
-  file. However, they can be a pain to create sometimes, especially when your primary focus wants to go towards the project itself. Use this README generator to quickly generate a markdown file based on inputs that you supply through the command line on VS code. It will format all of your responses neatly into a professional-looking README file, removing the hassle from your workflow and allowing you to focus on the more important things.
+  tools for developers, allowing them to describe their app or project via an organized, succinct and easy-to-access text
+  file. However, they can be a pain to create sometimes, especially when your primary focus is towards the project itself. Use this README generator to quickly generate a markdown file based on inputs that you supply through the command line on VS code. It will format all of your responses neatly into a professional-looking README file, removing the hassle from your workflow and allowing you to focus more on the important things.
   
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [How to Contribute](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
@@ -23,17 +22,13 @@
   
   To use this app, open index.js from the cloned repo. Open the integrated terminal on index.js and then enter "node ./index.js" on the command line and a series of prompts will appear. Type in your response to each prompt and hit enter. Once you've gone through all the prompts, a README file based on your answers will appear in the same folder.
   
-  ## License
-  
-  This app is covered under the undefined license. Click on the badge at the top of this README for more information about this license.
-  
   ## Contributing
   
   Anyone can contribute. See the #questions tab below for my contact information.
   
   ## Tests
   
-  Try testing the generator before really using it by entering simple answers for the prompts that appear. This will give you a feel for how the app functions. 
+  Try testing the generator by entering simple answers for the prompts that appear. This will give you a feel for how the app functions. 
   
   ## Questions
   
